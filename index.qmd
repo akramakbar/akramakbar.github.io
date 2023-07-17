@@ -1,11 +1,24 @@
 ---
-title: "akramakbar.github.io"
+title: "Mohammed Akram Akbar"
+image: images/dp.jpg
+about:
+  id: main-content
+  template: trestles
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:akramakbar@gmail.com
+    - icon: linkedin
+      href: https://www.linkedin.com/in/akramakbar/
+format:
+    html:
+        page-layout: full
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Work History
 
-```{r}
-1 + 1
-```
+
+ - Program Manager - Data Driven Experience \[\| 2022 - Present\] \[\| Saloncentric (Contract)\]
+ - Lead Product Management \[\| 2020 - 2021\] \[\| Dexlock Technologies\]
+- Product Manager \[\| 2017 - 2020\] \[\| Mobme Wireless Solutions (Geckolyst)\]  - AVP, Growth \[\| 2015 - 2017\] \[\| Dexlock Technologies\]  - Asst. Program Manager \[\| 2012 - 2021\] \[\| Mobme Wireless Solutions (Mobile Governance)\]
