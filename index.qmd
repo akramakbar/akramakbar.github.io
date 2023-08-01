@@ -14,11 +14,24 @@ format:
     html:
         page-layout: full
 ---
-
+::: {#main-content}
 
 ## Work History
 
+-   Program Manager  [\| 2022 - Present]{.lightblue} [\| Saloncentric (Contract)]{.gray}
+-   Lead Product Development [\| 2020 - 2021]{.lightblue} [\| Dexlock Technologies]{.gray}
+-   Product Manager [\| 2017 - 2020]{.lightblue} [\| Mobme Wireless Solutions (Geckolyst)]{.gray} 
+-   AVP, Growth [\| 2015 - 2017]{.lightblue} [\| Dexlock Technologies]{.gray} 
+-   Asst. Program Manager [\| 2012 - 2021]{.lightblue} [\| Mobme Wireless Solutions (Mobile Governance)]{.gray}
 
- - Program Manager - Data Driven Experience \[\| 2022 - Present\] \[\| Saloncentric (Contract)\]
- - Lead Product Management \[\| 2020 - 2021\] \[\| Dexlock Technologies\]
-- Product Manager \[\| 2017 - 2020\] \[\| Mobme Wireless Solutions (Geckolyst)\]  - AVP, Growth \[\| 2015 - 2017\] \[\| Dexlock Technologies\]  - Asst. Program Manager \[\| 2012 - 2021\] \[\| Mobme Wireless Solutions (Mobile Governance)\]
+------------------------------------------------------------------------
+
+## Education
+
+-   MS Business Analytics [\| UCSD Rady School 2022]{.gray}
+-   BS Mechanical Engineering [\| University of Kerala 2008]{.gray}
+:::
+
+::: {style="font-size: small"}
+Built under the generous and patient guidance of [Prof. Dan Yavorsky](https://danyavorsky.com)
+:::

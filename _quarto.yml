@@ -2,16 +2,18 @@ project:
   type: website
 
 website:
-  title: "akramakbar.github.io"
+  title: "Mohammed Akram Akbar"
   navbar:
+    background: "#536878"
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: cv/index.qmd
+        text: CV
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, custom.scss]
     css: styles.css
     toc: true
 
